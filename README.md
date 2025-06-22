@@ -8,7 +8,7 @@ This is the 3D printable case for the new Nintendo Switch 2 Dock.
 - Compattible to most big carry cases, i.e. Savage Raven MaxCarry case
 
 
-3D views
+# 3D views
 - Top Case
 <img src="https://github.com/user-attachments/assets/09c499c4-5c1e-430a-a696-466ea1de0a11" width=80% height=80%>
 
